@@ -1,7 +1,7 @@
 html, body, h1, h2, h3, h4, ul, ol, li, p, a {
   padding: 0;
   border: 0;
-  margin: 0;
+  margin: 20px 0px 0px 0px;
   font: inherit;
   font-size: 100%;
 }
