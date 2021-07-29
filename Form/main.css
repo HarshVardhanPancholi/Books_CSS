@@ -49,7 +49,7 @@ input[type=submit]{
 input[type=text]{
   width: 445px;
 }
-input[type=checkbox], label[for=on-tour]{
+input[type=checkbox], label[for=eng],label[for=hindi]{
   display: inline;
 }
 
